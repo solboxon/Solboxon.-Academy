@@ -1,0 +1,155 @@
+* {
+    margin: 0;
+    font-family: Arial;
+    border: border-box;
+}
+
+#navbar1 {
+    height: 40px;
+    background-color: #ffdfd6;
+}
+
+#empower {
+    color: black;
+   text-align: center;
+   padding-top: 10px;
+   font-size: 14px;   
+}
+
+#navbar2 {
+    height: 130px;
+    background-color: #e3a5c7;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+#nav-logo {
+    background-image: url(Logooo.png);
+    background-size: cover  ;
+    height: 120px;
+    width: 150px;
+}
+
+.navbaar {
+    color: #1a1a1a;
+    font-size: 1rem;
+    font-weight: 700 ;
+}
+
+#icons {
+    display: flex;
+    font-size: 2rem;
+    gap: 20px   ;
+}
+
+.navbaar:hover {
+    text-decoration: underline;
+}
+
+#navbar3 {
+    height: 550px;
+    background-color: #b692c2;
+    text-align: center;
+}
+
+#heading1 {
+    padding-top: 50px;
+    font-size: 5rem;
+}
+
+#join {
+    padding-top: 50px ;
+    font-size: 2rem;
+}
+
+#button {
+    background-color: white;
+    color: black;
+    margin-top: 50px;
+    font-size: 2.5rem;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    padding-left: 40px;
+   padding-right: 40px;
+}
+
+#hero {
+    height: 700px;
+   background-color: #694f8e;
+   d
+}
+
+#demo {
+    font-size: 3rem;
+    text-align: center;
+    padding-top: 50px;
+}
+
+#kids-photo {
+    margin-left: 200px;
+    margin-top: 100px;
+}
+
+#name {
+   margin-left: 100px;
+   margin-top: 50px
+}
+
+#in-same-line    {
+    display: flex;
+}
+
+#age {
+    margin-right: 100px;
+    margin-top: 300px;
+}
+
+#footer1 {
+    background-color: #b692c2;
+    height: 300px;
+    align-items: center;
+    text-align: center;
+}
+
+#touch {
+    font-size: 2rem;
+    font-weight: 700    ;
+    text-decoration: underline;
+}
+
+#number1 {
+    font-size: 1.5rem;
+    font-weight: 500;
+}
+
+#number2 {
+    font-size: 1.5rem;
+    font-weight: 500;
+}
+
+#mail {
+    font-size: 1rem;
+    font-weight: 700;
+}
+
+#foot-address1 {
+    font-size: 1rem;
+    font-weight: 400;
+}
+
+#foot-address2 {
+    font-size: 1rem;
+    font-weight: 400;
+}
+
+#footer2 {
+    color: white;
+    height: 3rem;
+    background-color: black;
+    text-align: center;
+    padding-top: 20px;
+    font-size: 1rem;
+}
